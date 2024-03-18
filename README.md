@@ -10,7 +10,9 @@ desarrollo mis habilidades para mejorar como desarrollador web enfocado en javas
 Mientras llevo adelante el desarrollo de mi propio videojuego en Godot Engine 🤖.
 
 Contactos atravez de:
+<br/>
 <a href="https://www.linkedin.com/in/juli%C3%A1n-attadia-b00a52216/">Linkedin</a>
+<br/>
 Hotmail: julihuel@hotmail.com
 
 Algunas tecnologias que uso:
