@@ -13,7 +13,7 @@ Contactos atravez de:
 <br/>
 <a href="https://www.linkedin.com/in/juli%C3%A1n-attadia-b00a52216/">Linkedin</a>
 <br/>
-Hotmail: julihuel@hotmail.com
+Mail: julihuel@hotmail.com
 
 Algunas tecnologias que uso:
 <br/>
