@@ -9,7 +9,7 @@ de programación para intentar recrear alguno de esos maravillosos mundos. Empez
 desarrollo mis habilidades para mejorar como desarrollador web enfocado en javascript y react 🌐.
 Mientras llevo adelante el desarrollo de mi propio videojuego en Godot Engine 🤖.
 
-Contactos atravez de:
+Contactos a través de:
 <br/>
 <a href="https://www.linkedin.com/in/juli%C3%A1n-attadia-b00a52216/">Linkedin</a>
 <br/>
